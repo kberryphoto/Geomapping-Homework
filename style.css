@@ -1,0 +1,44 @@
+html,
+body,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+    padding: 10px;
+    font-family: Sanchez, serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+    color: #555;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  }
+
+  .legend1 {
+    color: #00FF00;
+  }
+  
+  .legend2 {
+    color: #8DFF00;
+  }
+  
+  .legend3 {
+    color: #F7FF00;
+  }
+
+  .legend4 {
+    color: #FFC100;
+  }
+  
+  .legend5{
+    color: #FF6900;
+  }
+  
+  .legend6 {
+    color: #FF1100;
+  }
+  
